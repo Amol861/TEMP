@@ -1,0 +1,242 @@
+body
+{
+  margin-top: 0;
+margin-right: 0;
+margin-left: 0;
+}
+
+/*Introduction*/
+.title-image
+{
+  height: 350px;
+  border-radius: 100%;
+margin-top: 90px;
+margin-left: 150px;
+margin-bottom: 75px;
+}
+.aboutme
+{
+  margin-top: 80px;
+  margin-left: 40px;
+  font-family: 'Acme', sans-serif;
+
+}
+.intro
+{
+  background-color: #30475E;
+  color: white;
+  margin-bottom: 0;
+
+}
+.desc
+{
+  margin-left: 40px;
+  margin-top: 160px;
+  font-family: 'Acme', sans-serif;
+}
+/*skills*/
+#skills
+{
+  background-color: white;
+  margin-top: 0;
+  color: #30475E;
+  font-family: 'Acme', sans-serif;
+  height: 600px;
+}
+#sskill
+{
+  background-color: #30475E;
+  margin-top: 0;
+  color: white;
+  font-family: 'Acme', sans-serif;
+  height: 600px;
+}
+.skillsett
+{
+  background-color: #30475E;
+  margin-top: 0;
+  color: white;
+  font-family: 'Acme', sans-serif;
+  height: 600px;
+}
+.cont
+{
+  text-align: center;
+}
+.skill
+{
+  text-align: center;
+  margin-top: 0px;
+  font-family: 'Acme', sans-serif;
+
+}
+.abcd
+{
+  margin-left: 600px;
+  height: 180px;
+  width: 20%;
+  margin-top: 20px;
+}
+.cprog
+{
+  text-align: center;
+  margin-top: 20px;
+}
+.sft
+{
+  margin-top: 20px;
+}
+#sskill
+{
+  background-color: black;
+  color: white;
+}
+.cprog
+{
+  margin-bottom: 25px;
+}
+@media (max-width:550px)
+{
+  .abcd
+  {
+    margin-left: 100px;
+    width: 60%;
+    height: 250px;
+  }
+  .cprog
+  {
+    margin-left: 20px;
+  }
+}
+@media (min-width: 551px) and (max-width:1200px)
+{
+  .abcd
+  {
+margin-left: 200px;
+    width: 60%;
+    height: 250px;
+  }
+}
+/*hobbies*/
+#hobbies
+{
+  background-color: white;
+  color: #30475E;
+  height: 600px;
+}
+.hbbs
+{
+  text-align: center;
+    font-family: 'Acme', sans-serif;
+
+}
+.divs
+{
+  margin-top: 250px;
+}
+
+.music
+{
+  width: 100%;
+}
+.reads
+{
+  margin-left: 120px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.read
+{
+  margin-left: 130px;
+}
+.write
+{
+  margin-left: 130px;
+}
+.writes
+{
+  margin-left: 120px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.musics
+{
+  margin-left: 80px;
+  margin-top: 15px;
+}
+.row
+{
+  margin-top: 15px;
+}
+/*contactme*/
+#contactme
+{
+  background-color: #30475E;
+  color: white;
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+  height: 300px;
+}
+.abc
+{
+  margin-left: 10px;
+  height: 50px;
+  margin-top: 20px;
+}
+.def
+{
+
+  height: 50px;
+}
+.ghi
+{
+
+  height: 50px;
+}
+
+@media(max-width: 1028px)
+{
+  .intro
+  {
+    text-align: center;
+  }
+
+}
+@media(max-width: 1028px)
+{
+  .title-image
+  {
+    align-self: center;
+    margin-left: 345px;
+  }
+}
+@media(max-width: 1028px)
+{
+  .read
+  {
+    align-self: center;
+    margin-left: 290px;
+  }
+}
+@media(max-width: 1028px)
+{
+  .reads
+  {
+    text-align: center;
+  }
+}
+@media(max-width: 1028px)
+{
+  .write
+  {
+    align-self: center;
+    margin-left: 290px;
+  }
+}
+@media(max-width: 1028px)
+{
+  .writes
+  {
+text-align: center;
+  }
+}
